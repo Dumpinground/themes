@@ -1,10 +1,10 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "homepage": "https://github.com/Dumpinground/posh-theme",
     "description": "powershell scoop theme based on oh-my-posh ys",
-    "license":"Unlicense",
-    "url": "https://github.com/Dumpinground/posh-theme/archive/refs/tags/v1.0.0.zip",
-    "hash": "e5d4ebba2b80da90017022fdc751d8a37eede9cb50cf509fabbf26879915f6f3",
+    "license": "Unlicense",
+    "url": "https://github.com/Dumpinground/posh-theme/archive/refs/tags/v1.1.0.zip",
+    "hash": "d4040b5fcaf0c570bce25b25a1d354772185eccdec9248e8dd7a3ebd36668098",
     "extract_dir": "themes",
     "checkver": "github",
     "autoupdate": {

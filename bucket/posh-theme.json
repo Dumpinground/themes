@@ -5,9 +5,16 @@
     "license": "Unlicense",
     "url": "https://github.com/Dumpinground/posh-theme/archive/refs/tags/v1.1.0.zip",
     "hash": "d4040b5fcaf0c570bce25b25a1d354772185eccdec9248e8dd7a3ebd36668098",
-    "extract_dir": "themes",
+    "extract_dir": [
+        "posh-theme-1.1.0",
+        "posh-theme-1.1.0/themes"
+    ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/Dumpinground/posh-theme/archive/refs/tags/v$version.zip"
+        "url": "https://github.com/Dumpinground/posh-theme/archive/refs/tags/v$version.zip",
+        "extract_dir": [
+            "posh-theme-$version",
+            "posh-theme-$version/themes"
+        ]
     }
 }

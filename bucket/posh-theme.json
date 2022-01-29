@@ -1,6 +1,7 @@
 {
     "version": "1.0.0",
     "homepage": "https://github.com/Dumpinground/posh-theme",
+    "description": "powershell scoop theme based on oh-my-posh ys",
     "license":"Unlicense",
     "url": "https://github.com/Dumpinground/posh-theme/archive/refs/tags/v1.0.0.zip",
     "hash": "e5d4ebba2b80da90017022fdc751d8a37eede9cb50cf509fabbf26879915f6f3",
